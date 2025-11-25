@@ -1,16 +1,34 @@
-# React + Vite
+╔═══════════════════════════════════════════════════════════════════╗
+║ HABIT TRACKER - COMPLETE SETUP GUIDE ║
+║ Full-Stack Application with Latest Dependencies ║
+╚═══════════════════════════════════════════════════════════════════╝
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📦 PROJECT OVERVIEW
+═══════════════════════════════════════════════════════════════════
+This is a complete Habit Tracker application with:
+✅ React (Client)
+✅ Tailwind CSS (Latest version)
+✅ Express.js + MongoDB (Server)
+✅ Firebase Authentication
+✅ Streak tracking & completion logic
+✅ CRUD operations for habits
+✅ Search & filter functionality
+✅ Responsive design with animations
 
-Currently, two official plugins are available:
+✅ KEY FEATURES IMPLEMENTED
+═══════════════════════════════════════════════════════════════════
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✓ Authentication (Email + Google)
+✓ Protected routes
+✓ Add/Edit/Delete habits
+✓ Mark habits complete
+✓ Streak calculation (consecutive days)
+✓ Public/Private habits
+✓ Search and filter
+✓ Image upload to ImgBB
+✓ Responsive design
+✓ Animations with Framer Motion
+✓ Toast notifications
+✓ Firebase integration
+✓ MongoDB database
+✓ Latest Tailwind CSS 4.0
